@@ -3,7 +3,7 @@ import ListarTarefa from "./pages/tarefa/ListarTarefa";
 
 function App() {
   return (
-    <div className="App">
+    <div className="Appp">
       <Header />
       <ListarTarefa />
     </div>
